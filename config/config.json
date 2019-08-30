@@ -1,0 +1,7 @@
+{
+    "appName": "Web Application",
+
+    "server": {
+        "port": 8000
+    }
+}
